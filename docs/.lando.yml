@@ -1,4 +1,0 @@
-name: hello-lando
-recipe: lamp
-config:
-  webroot: .
