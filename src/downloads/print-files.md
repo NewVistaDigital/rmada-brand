@@ -265,7 +265,7 @@ const vote = [
     title: 'Voters Guide Brochure - Print',
     subtitle: 'Download print files - with print marks',
     fileType: 'pdf',
-    url: 'https://www.dropbox.com/scl/fi/hrp6pc2fjvg70o04owqgg/Voters-Pocket-Guide-v3.1-print-marks.pdf?rlkey=hw0zvd9pydqjx65qpy75ze98p&dl=0'
+    url: 'https://www.dropbox.com/scl/fi/721jmyqqc8os7rax6bzt4/Voters-Pocket-Guide-Print-Marks.pdf?rlkey=5nrt4pnptfkm7byg9i4u4iu3r&dl=0'
   }
 ]
 
