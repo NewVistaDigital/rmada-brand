@@ -6,9 +6,7 @@
 
 The logo is simplified to show the ADA logo and a type treatment of the ADA Center's name.
 
-<span style="background-color: var(--n00);display:inline-block;padding:40px;box-shadow:var(--vp-shadow-3);">
-![Rocky Mountain ADA Center Logo](/assets/logos/rocky-mountain-ada_logo-horizontal-states-primary.png)
-</span>
+<span style="background-color: var(--n00);display:inline-block;padding:40px;box-shadow:var(--vp-shadow-3);">![Rocky Mountain ADA Center Logo](/assets/logos/rocky-mountain-ada_logo-horizontal-states-primary.png)</span>
 
 # Rationale
 The new brandmark represents the simplicity of the Rocky Mountain ADA. It combines the official ADA logo with a clean and open type treatment, using the [Montserrat font](/brand/typography).
