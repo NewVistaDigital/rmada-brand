@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Rocky Mountain ADA Center Brand Guidelines",
-  description: "Brand guidelines, documentation, and downloads for the RMADA center.",
+  title: "Thoughts & Tips on Parenting",
+  description: "Just some tips, tricks, thoughts, and best-practices that have worked for me, or have figured out through trial and error, as I figure out how to raise two girls.",
   assetsDir: 'static',
   ignoreDeadLinks: true,
   lastUpdated: true,
@@ -17,11 +17,11 @@ export default defineConfig({
     ]
   ],
   themeConfig: {
-    logo: {
-      light: '/logo.png',
-      dark: '/logo-dark.png',
-      alt: 'Rocky Mountain ADA Center Brand Guidelines',
-    },
+    // logo: {
+    //   light: '/logo.png',
+    //   dark: '/logo-dark.png',
+    //   alt: 'Thoughts & Tips on Parenting',
+    // },
     siteTitle: false,
     nav: [
       { text: 'Home', link: '/' },
@@ -36,53 +36,40 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Brand',
+        text: 'Early Years',
         items: [
-          { text: 'Logos', link: '/brand/logos' },
-          // { text: 'Logo Variations', link: '/brand/logo-variations' },
-          { text: 'Colors', link: '/brand/colors' },
-          { text: 'Extended Color Palette', link: '/brand/extended-palette' },
-          { text: 'Typography', link: '/brand/typography' },
+          { text: 'Infant & Baby', link: '/early-years/baby-stuff.md' },
+          { text: 'Toddlers', link: '/early-years/toddlers.md' },
         ]
       },
       {
-        text: 'Downloads',
-        link: '/downloads',
+        text: 'Parenting',
         collapsed: true,
+        link: '/parenting/parenting.md',
         items: [
           {
-            text: 'Logo Files', link: '/downloads/logo-files'
+            text: 'Parenting',
+            link: '/parenting/parenting.md'
           },
           {
-            text: 'Print Files', link: '/downloads/print-files'
+            text: 'Two Kids',
+            link: '/parenting/two-kids.md'
           },
-          {
-            text: 'Digital Media', link: '/downloads/digital-files'
-          }
         ]
       },
       {
-        text: 'Voice and Tone',
-        link: '/voice-and-tone',
+        text: 'Daughters',
         collapsed: true,
         items: [
-          { text: 'tl;dr', link: '/voice-and-tone/tldr' },
-          { text: 'Writing Goals', link: '/voice-and-tone/writing-goals' },
-          { text: 'Writing About People', link: '/voice-and-tone/writing-about-people' },
-          { text: 'Grammer & Mechanics', link: '/voice-and-tone/grammar-and-mechanics' },
-          { text: 'Writing Online', link: '/voice-and-tone/writing-online' },
-          { text: 'Writing Email Newsletters', link: '/voice-and-tone/writing-email-newsletters' },
-          { text: 'Writing for Social Media', link: '/voice-and-tone/writing-for-social-media' },
-          { text: 'Writing for Accessibility', link: '/voice-and-tone/writing-for-accessibility' },
-          { text: 'Creating Structured Content', link: '/voice-and-tone/creating-structured-content' },
-          { text: 'Copyright & Trademarks', link: '/voice-and-tone/copyright-and-trademarks' },
-          { text: 'Further Reading', link: '/voice-and-tone/further-reading' }
+          {
+            text: 'Notes for the future', link: '/daughters/future-notes-for-daughters.md'
+          },
         ]
-      }
+      },
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/jessemutz/rmada-brand' },
-      { icon: 'instagram', link: 'https://instagram.com/newvistadigital'}
+      { icon: 'github', link: 'https://github.com/jessemutz/parenting-notes' },
+      { icon: 'instagram', link: 'https://instagram.com/jessemutz'}
     ]
   }
 })

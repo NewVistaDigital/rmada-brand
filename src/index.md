@@ -3,27 +3,27 @@
 layout: home
 
 hero:
-  name: "Rocky Mountain ADA Center"
-  text: Brand Guidelines
-  tagline: "Design assets, brand guidelines, and documentation for the RMADA center."
-  image: /introduction_hero.jpg
+  name: "Thoughts & Tips on Parenting"
+  text: ""
+  tagline: Just some tips, tricks, thoughts, and best-practices that have worked for me, or have figured out through trial and error, as I figure out how to raise two girls.
+  image: /parenting.png
   actions:
     - theme: brand
-      text: About this guide
+      text: Start reading
       link: /introduction
-    - theme: alt
-      text: Downloads
-      link: /downloads
+    # - theme: alt
+    #   text: Downloads
+    #   link: /downloads
 
 features:
-  - title: Logo Files
-    details: Download all logo files for print and web. Includes .png and svg files.
-    link: /brand/logos
-  - title: Print Designs
-    details: Need more brochures or pocket guides? Download them here.
-    link: /downloads/print-files
-  - title: Writing Guidelines
-    details: Extremely helpful guide on better writing. Tips for accessibility, newsletters, writing about people, and more!
-    link: /voice-and-tone
+  - title: Something
+    details: I'll probably add something here.
+    link: /
+  - title: Another thing
+    details: Probably something else will go here as well.
+    link: /
+  - title: Third thing
+    details: The brain likes things in groups of three!
+    link: /
 ---
 

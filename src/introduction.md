@@ -11,7 +11,7 @@ const members = [
     desc: 'Reach Jesse at <a href="tel:7196391470">719-639-1470',
     links: [
       { icon: 'github', link: 'https://github.com/jessemutz' },
-      { icon: 'instagram', link: 'https://instagram.com/newvistadigital' },
+      { icon: 'instagram', link: 'https://instagram.com/jessemutz' },
       { icon: 'linkedin', link: 'https://linkedin.com/in/jessemutz' },
       { icon: 'twitter', link: 'https://twitter.com/jessemutz' }
     ]
@@ -20,27 +20,22 @@ const members = [
 </script>
 
 # What is this site for?
-Welcome to the Rocky Mountain ADA brand guidelines. This documentation offers the fundamental principles behind our brand and the necessary assets to implement it in your projects. Please consider these guidelines a living document that will evolve as we continue to develop the tenets and specifics of our brand design.
+For whatever reason I started writing down tips that I wish I had as I learn them. We don't plan on having any more, but I'm sure there are plenty of other folks that will have kids that may like tips.
 
-## Our Brand
-Our personality establishes the foundation of the Rocky Mountain ADA brand. It is a product of our mission, and a reflection of our culture, values, and promise to customers. We make sure that these traits come through in all of our communications and content.
+> We're not raising children. We're raising future adults.
 
-- Helpful
-- Optimistic
-- Practical with a wink
+Beyond the practical, I want to gather resources and tricks from parents I respect who have successfully raised amazing young adults.
 
-Our guidelines have space for flexibility, and are continuously revised and expanded to suit changing needs and up-to-date design trends and styling.
+## YMMV
+*(your mileage may vary)*
 
-## Accessible Design System
+Every child is unique. What works for one may not work at all for anyone else.,
 
-Accessibility guaranties the interaction of people with disabilities with our digital or physical materials.
+> Every player needs a pat on the back. Some just need it a little lower and a little harder.
+>
+> *-John Wooden*
 
-This design system is built with all users in mind. It offers the same range of possibilities to users with different physical problems breaking barriers in terms of interaction
+Kids are motivated differently. Respond to criticism and correction differently. Our job is to understand that and parent each individual as best we can.
 
-### Further Reading, Regulations, and Resources
-- [Web Content Accessibility Guidelines (WCAG) from W3C](https://www.w3.org/WAI/intro/wcag)
-- [Section 508 of the U.S. Rehabilitation Act](https://www.section508.gov/section-508-of-the-rehabilitation-act)
-- [The a11y Project](https://a11yproject.com/)
-
-## Your Contact
+## Me, Jesse
 <VPTeamMembers size="medium" :members="members" />
