@@ -10,5 +10,6 @@ This site is built using VitePress, a Vue-powered static site generator and a sp
 
 To check out docs, visit [vitepress.dev](https://vitepress.dev).
 
-To host on github pages, add `base: '/rmada-brand/',` to config.mts to set the base url, and use the branch `github`.
+To host on github pages, add `base: '/rmada-brand/',` to `config.mts` to set the base url, and use the branch `github`.
+
 To host on another server, remove this line and use branch `main`.
