@@ -1,3 +1,16 @@
+<script setup>
+import FileDownload from '../../.vitepress/components/FileDownload.vue'
+
+const standard = [
+  {
+    title: 'Standard Signature',
+    subtitle: 'Download HTML file',
+    fileType: 'HTML',
+    url: '/brand/rmadac-email-signature-standard.html'
+  },
+]
+</script>
+
 <style>
   .vp-doc table {
     margin: unset;
@@ -22,6 +35,8 @@
 To add the signature of your choice to your email, download the HTML file associated with what you like.
 
 ## Standard email signature
+
+<FileDownload :downloads='standard' /><br><br>
 
 <table cellspacing="0" cellpadding="0" border="0" style="
     box-sizing: border-box;
