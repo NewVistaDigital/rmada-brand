@@ -43,6 +43,7 @@ export default defineConfig({
           { text: 'Colors', link: '/brand/colors' },
           { text: 'Extended Color Palette', link: '/brand/extended-palette' },
           { text: 'Typography', link: '/brand/typography' },
+          { text: 'Email Signatures', link: '/brand/email-signatures' },
         ]
       },
       {
@@ -82,7 +83,7 @@ export default defineConfig({
     ],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/jessemutz/rmada-brand' },
-      { icon: 'instagram', link: 'https://instagram.com/newvistadigital'}
+      { icon: 'instagram', link: 'https://instagram.com/newvistadigital' }
     ]
   }
 })
