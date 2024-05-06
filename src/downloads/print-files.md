@@ -2,16 +2,19 @@
 Below are links to download all of our print materials and resources.
 
 ## RMADAC Brand Materials
+
 Generic Rocky Mountain ADA Center brochure and pocket folder.
 <FileDownload :downloads='rmadac' />
 
 
 ## Event Banners
+
 These banners are for in-person events, to go next to or on RMADAC tables.
 
 <FileDownload :downloads='banners' />
 
 ## Childcare
+
 <FileDownload :downloads='childCare' />
 
 
@@ -31,8 +34,12 @@ These banners are for in-person events, to go next to or on RMADAC tables.
 
 
 ## Law Enforcement
+
 <FileDownload :downloads='law' />
 
+## Public Transportaiton Pocket Guide
+
+<FileDownload :downloads='transit' />
 
 ## Service Animals
 <FileDownload :downloads='animals' />
@@ -54,7 +61,7 @@ These banners are for in-person events, to go next to or on RMADAC tables.
 
 ## Course Catalog
 This is no longer used since we have thinkific. These are all spreads for the catalog, along with the course covers.
-<FileDownload :downloads='catalog' />
+<FileDownload :downloads='catlog' />
 
 
 <script setup>
@@ -188,6 +195,15 @@ const law = [
     subtitle: 'Interacting with people with disabilities',
     fileType: 'pdf',
     url: 'https://www.dropbox.com/scl/fi/pv9htgwdkbnm29xi4xv7t/Law-Enforcement-4-Panel-Large-v3.0.pdf?rlkey=hf62nkpzh4h4g0w7edplfhxz9&dl=0'
+  }
+]
+
+const transit = [
+  {
+    title: 'Public Transportation Pocket Guide',
+    subtitle: 'ASL Signs for public transportation print guide',
+    fileType: 'pdf',
+    url: 'https://www.dropbox.com/scl/fi/8oxd3up4aroh8fdzhtpwk/Public-Transit-Pocket-Guide-v3.1.pdf?rlkey=7n9bg62wdve9gc71gcw3uksyh&dl=0'
   }
 ]
 
