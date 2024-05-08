@@ -36,6 +36,7 @@ These banners are for in-person events, to go next to or on RMADAC tables.
 ## Law Enforcement
 
 <FileDownload :downloads='law' />
+<FileDownload :downloads='law-signs' />
 
 ## Public Transportaiton Pocket Guide
 
@@ -196,6 +197,15 @@ const law = [
     fileType: 'pdf',
     url: 'https://www.dropbox.com/scl/fi/pv9htgwdkbnm29xi4xv7t/Law-Enforcement-4-Panel-Large-v3.0.pdf?rlkey=hf62nkpzh4h4g0w7edplfhxz9&dl=0'
   }
+]
+
+const law-signs = [
+  {
+    title: 'Signs of the Law',
+    subtitle: 'Pocket guide with ASL signs for law enforcement',
+    fileType: 'pdf',
+    url: 'https://www.dropbox.com/scl/fi/tjqmpkbrlerkwzo1wocao/v1.0-Signs-of-the-LawPocket-Guide.pdf?rlkey=gq87skwpdvtppqkp7yfy19k20&st=7fwnkow0&dl=0'
+  },
 ]
 
 const transit = [
