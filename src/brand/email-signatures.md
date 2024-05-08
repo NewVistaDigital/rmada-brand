@@ -41,7 +41,18 @@ const pride = [
 
 # Email signatures
 
-To add the signature of your choice to your email, download the HTML file associated with what you like.
+We have a standard email signature for use in our emails.
+
+To add the signature of your choice to your email, download the HTML file associated with the style you like. Open the file in a browser, then copy and paste everything in your email client.
+
+After you have copied the template, you may change the following:
+- Name
+- Title
+- Pronouns
+- Phone Number(s)
+- Email address 
+
+Do not add or remove anything else. All email disclaimers and information is provided in the "email disclaimer" link 
 
 ## Standard email signature
 
