@@ -6,7 +6,16 @@ const standard = [
     title: 'Standard Signature',
     subtitle: 'Download HTML file',
     fileType: 'HTML',
-    url: '/brand/rmadac-email-signature-standard.html'
+    url: '/assets/rmadac-email-signature-standard.html'
+  },
+]
+
+const pride = [
+  {
+    title: 'Pride Signature',
+    subtitle: 'Download HTML file',
+    fileType: 'HTML',
+    url: '/assets/rmadac-email-signature-pride.html'
   },
 ]
 </script>
@@ -309,6 +318,8 @@ To add the signature of your choice to your email, download the HTML file associ
 </table>
 
 ## Pride version
+
+<FileDownload :downloads='pride' /><br><br>
 
 <table cellspacing="0" cellpadding="0" border="0" style="
     box-sizing: border-box;
