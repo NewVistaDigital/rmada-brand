@@ -94,7 +94,7 @@ Do not add or remove anything else. All email disclaimers and information is pro
             color: rgb(27, 67, 173);
             line-height: 22pt;
             font-family: 'Montserrat', Arial, sans-serif;
-          "><strong style="box-sizing: border-box; font-weight: 800">Jaimé Garvin, ADAC</strong></span>
+          "><strong style="box-sizing: border-box; font-weight: 700">Jaimé Garvin, ADAC</strong></span>
       </td>
     </tr>
     <tr style="box-sizing: border-box">
