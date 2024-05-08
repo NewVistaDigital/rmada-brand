@@ -43,7 +43,9 @@ const pride = [
 
 We have a standard email signature for use in our emails.
 
-To add the signature of your choice to your email, download the HTML file associated with the style you like. Open the file in a browser, then copy and paste everything in your email client.
+To add the signature of your choice to your email, you can copy and paste the signature you like below.
+
+If the copy/paste doesn't work, download the HTML file associated with the style you like. Open the file in a browser, then copy and paste everything in your email client.
 
 After you have copied the template, you may change the following:
 - Name
