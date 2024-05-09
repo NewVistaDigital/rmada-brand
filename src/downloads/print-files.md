@@ -200,7 +200,7 @@ const law = [
     title: 'Signs of the Law',
     subtitle: 'Pocket guide with ASL signs for law enforcement',
     fileType: 'pdf',
-    url: 'https://www.dropbox.com/scl/fi/tjqmpkbrlerkwzo1wocao/v1.0-Signs-of-the-LawPocket-Guide.pdf?rlkey=gq87skwpdvtppqkp7yfy19k20&st=7fwnkow0&dl=0'
+    url: 'https://www.dropbox.com/scl/fi/6o1qj620sl5js1yknk5ow/Signs-of-the-Law-2.0.pdf?rlkey=pce2raa1763xbak7ge0ddvpdf&st=sbxqgr7l&dl=0'
   },
 ]
 
