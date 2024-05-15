@@ -6,7 +6,16 @@ const standard = [
     title: 'Standard Signature',
     subtitle: 'Download HTML file',
     fileType: 'HTML',
-    url: '/brand/rmadac-email-signature-standard.html'
+    url: '/assets/rmadac-email-signature-standard.html'
+  },
+]
+
+const pride = [
+  {
+    title: 'Pride Signature',
+    subtitle: 'Download HTML file',
+    fileType: 'HTML',
+    url: '/assets/rmadac-email-signature-pride.html'
   },
 ]
 </script>
@@ -32,7 +41,20 @@ const standard = [
 
 # Email signatures
 
-To add the signature of your choice to your email, download the HTML file associated with what you like.
+We have a standard email signature for use in our emails.
+
+To add the signature of your choice to your email, you can copy and paste the signature you like below.
+
+If the copy/paste doesn't work, download the HTML file associated with the style you like. Open the file in a browser, then copy and paste everything in your email client.
+
+After you have copied the template, you may change the following:
+- Name
+- Title
+- Pronouns
+- Phone Number(s)
+- Email address 
+
+Do not add or remove anything else. All email disclaimers and information is provided in the "email disclaimer" link 
 
 ## Standard email signature
 
@@ -72,7 +94,7 @@ To add the signature of your choice to your email, download the HTML file associ
             color: rgb(27, 67, 173);
             line-height: 22pt;
             font-family: 'Montserrat', Arial, sans-serif;
-          "><strong style="box-sizing: border-box; font-weight: 800">Jaimé Harter, ADAC</strong></span>
+          "><strong style="box-sizing: border-box; font-weight: 700">Jaimé Garvin, ADAC</strong></span>
       </td>
     </tr>
     <tr style="box-sizing: border-box">
@@ -92,7 +114,7 @@ To add the signature of your choice to your email, download the HTML file associ
             color: rgb(29, 44, 71);
             font-family: 'Montserrat', Arial, sans-serif;
           ">ADA Informational Specialist</span><br>
-          <span style="
+        <span style="
             box-sizing: border-box;
             font-size: 10pt;
             line-height: 20px;
@@ -236,54 +258,48 @@ To add the signature of your choice to your email, download the HTML file associ
           padding: 15px 0px 0px;
           border-top: 1px solid rgb(27, 67, 173);
           font-size: 9pt;
-          line-height: 14px;
+          line-height: 18px;
         ">
         <span style="
             box-sizing: border-box;
             font-size: 9pt;
             color: rgb(29, 44, 71);
             font-family: 'Montserrat', Arial, sans-serif;
-          "><span style="box-sizing: border-box; color: rgb(47, 59, 85)"><strong style="
+          "><strong style="
                 box-sizing: border-box;
                 margin-right: 0.25em;
                 font-weight: 800;
-              ">TEL:</strong></span>(800) 555-0299<span style="box-sizing: border-box"></span></span>
-              <span style="padding: 0 8px"> | </span>
+              ">TEL:</strong>(800) 555-0299</span>
+        <span style="padding: 0 8px"> | </span>
         <span style="
             box-sizing: border-box;
             font-size: 9pt;
             color: rgb(29, 44, 71);
             font-family: 'Montserrat', Arial, sans-serif;
-          "><span style="box-sizing: border-box; color: rgb(47, 59, 85)"><strong style="
+          "><strong style="
                 box-sizing: border-box;
                 margin-right: 0.25em;
                 font-weight: 800;
-              ">VP:</strong></span>(719) 358-2460</span>
-              <span style="padding: 0 8px"> | </span>
-        <span style="
-            box-sizing: border-box;
-            font-size: 9pt;
-            color: rgb(47, 59, 85);
-          "><span style="box-sizing: border-box; color: rgb(47, 59, 85)"></span><span> </span><a href="mailto:jaime.harter@unco.edu" style="
+              ">VP:</strong>(719) 358-2460</span>
+        <span style="padding: 0 8px"> | </span>
+        <a href="mailto:jaime.garvin@unco.edu" style="
               box-sizing: border-box;
               background-color: transparent;
               color: rgb(29, 44, 71);
               text-decoration: none;
               font-size: 9pt;
-            "><span style="
-                box-sizing: border-box;
-                font-size: 9pt;
-                color: rgb(29, 44, 71);
-                text-decoration: none;
-              ">jaime.harter@unco.edu</span></a></span>
-              <span style="box-sizing: border-box; padding: 20px 0; display: block"><a href="http://rockymountainada.org/" target="_blank" rel="noopener" style="
+            ">jaime.garvin@unco.edu</a>
+        <span style="box-sizing: border-box; padding: 20px 0; display: block"><a href="http://rockymountainada.org/"
+            target="_blank" rel="noopener" style="
               box-sizing: border-box;
               background-color: transparent;
               color: rgb(51, 122, 183);
               text-decoration: none;
               font-family: 'Montserrat', Arial, sans-serif;
+              max-width: 420px;
             ">
-              <img src="../assets/logos/rmadac-logo.png" alt="Rocky Mountain ADA Center Pride Logo" /></a></span>
+            <img src="https://brand.rockymountainada.org/assets/logos/rmadac-logo.png"
+              alt="Rocky Mountain ADA Center Logo" style="max-width: 100%;" /></a></span>
       </td>
     </tr>
     <tr style="box-sizing: border-box">
@@ -292,7 +308,7 @@ To add the signature of your choice to your email, download the HTML file associ
           padding: 15px 0px 0px;
           border-top: 1px solid rgb(175, 179, 191);
           font-size: 9pt;
-          line-height: 14px;
+          line-height: 18px;
         ">
         <span style="
             box-sizing: border-box;
@@ -300,8 +316,12 @@ To add the signature of your choice to your email, download the HTML file associ
             color: rgb(29, 44, 71);
             font-family: 'Montserrat', Arial, sans-serif;
           ">
-          Supported by NIDILRR grant number 90DPAD0014<br>
-          <a style="color:rgb(29,44,71);" href="https://rockymountainada.org/disclaimer" target="_blank">Email Disclaimer</a>
+          Help us improve our services by taking
+          our <a
+            href="https://us19.list-manage.com/survey?u=5d4a5e285a1a869eedc7acc2e&id=e87c87f94e&attribution=false&e=158c49c071"
+            target="_blank">demographic poll</a><br>
+          <a style="color:rgb(29,44,71);" href="https://rockymountainada.org/disclaimer" target="_blank">Email
+            Disclaimer</a> | Supported by NIDILRR grant #90DPAD0014
         </span>
       </td>
     </tr>
@@ -309,6 +329,8 @@ To add the signature of your choice to your email, download the HTML file associ
 </table>
 
 ## Pride version
+
+<FileDownload :downloads='pride' /><br><br>
 
 <table cellspacing="0" cellpadding="0" border="0" style="
     box-sizing: border-box;
@@ -344,7 +366,7 @@ To add the signature of your choice to your email, download the HTML file associ
             color: rgb(27, 67, 173);
             line-height: 22pt;
             font-family: 'Montserrat', Arial, sans-serif;
-          "><strong style="box-sizing: border-box; font-weight: 700">Jaimé Harter, ADAC</strong></span>
+          "><strong style="box-sizing: border-box; font-weight: 700">Jaimé Garvin, ADAC</strong></span>
       </td>
     </tr>
     <tr style="box-sizing: border-box">
@@ -363,8 +385,8 @@ To add the signature of your choice to your email, download the HTML file associ
             line-height: 20px;
             color: rgb(29, 44, 71);
             font-family: 'Montserrat', Arial, sans-serif;
-          ">ADA Informational Specialist</span><br>
-          <span style="
+          ">ADA Informational Specialist</span><br />
+        <span style="
             box-sizing: border-box;
             font-size: 10pt;
             line-height: 20px;
@@ -379,7 +401,8 @@ To add the signature of your choice to your email, download the HTML file associ
           font-family: 'Montserrat', Arial, sans-serif;
           width: 160px;
           color: rgb(29, 44, 71);
-          text-align: right;">
+          text-align: right;
+        ">
         <table style="
             box-sizing: border-box;
             border-spacing: 0px;
@@ -508,54 +531,48 @@ To add the signature of your choice to your email, download the HTML file associ
           padding: 15px 0px 0px;
           border-top: 1px solid rgb(27, 67, 173);
           font-size: 9pt;
-          line-height: 14px;
+          line-height: 18px;
         ">
         <span style="
             box-sizing: border-box;
             font-size: 9pt;
             color: rgb(29, 44, 71);
             font-family: 'Montserrat', Arial, sans-serif;
-          "><span style="box-sizing: border-box; color: rgb(47, 59, 85)"><strong style="
-                box-sizing: border-box;
-                margin-right: 0.25em;
-                font-weight: 800;
-              ">TEL:</strong></span>(800) 555-0299<span style="box-sizing: border-box"></span></span>
-              <span style="padding: 0 8px"> | </span>
+          "><strong style="
+              box-sizing: border-box;
+              margin-right: 0.25em;
+              font-weight: 800;
+            ">TEL:</strong>(800) 555-0299</span>
+        <span style="padding: 0 8px"> | </span>
         <span style="
             box-sizing: border-box;
             font-size: 9pt;
             color: rgb(29, 44, 71);
             font-family: 'Montserrat', Arial, sans-serif;
-          "><span style="box-sizing: border-box; color: rgb(47, 59, 85)"><strong style="
-                box-sizing: border-box;
-                margin-right: 0.25em;
-                font-weight: 800;
-              ">VP:</strong></span>(719) 358-2460</span>
-              <span style="padding: 0 8px"> | </span>
-        <span style="
-            box-sizing: border-box;
-            font-size: 9pt;
-            color: rgb(47, 59, 85);
-          "><span style="box-sizing: border-box; color: rgb(47, 59, 85)"></span><span> </span><a href="mailto:jaime.harter@unco.edu" style="
+          "><strong style="
               box-sizing: border-box;
-              background-color: transparent;
-              color: rgb(29, 44, 71);
-              text-decoration: none;
-              font-size: 9pt;
-            "><span style="
-                box-sizing: border-box;
-                font-size: 9pt;
-                color: rgb(29, 44, 71);
-                text-decoration: none;
-              ">jaime.harter@unco.edu</span></a></span>
-              <span style="box-sizing: border-box; padding: 20px 0; display: block"><a href="http://rockymountainada.org/" target="_blank" rel="noopener" style="
+              margin-right: 0.25em;
+              font-weight: 800;
+            ">VP:</strong>(719) 358-2460</span>
+        <span style="padding: 0 8px"> | </span>
+        <a href="mailto:jaime.garvin@unco.edu" style="
+            box-sizing: border-box;
+            background-color: transparent;
+            color: rgb(29, 44, 71);
+            text-decoration: none;
+            font-size: 9pt;
+          ">jaime.garvin@unco.edu</a>
+        <span style="box-sizing: border-box; padding: 20px 0; display: block"><a href="https://rockymountainada.org/"
+            target="_blank" rel="noopener" style="
               box-sizing: border-box;
               background-color: transparent;
               color: rgb(51, 122, 183);
               text-decoration: none;
               font-family: 'Montserrat', Arial, sans-serif;
+              max-width: 420px;
             ">
-              <img src="../assets/logos/rmadac-logo-pride.png" alt="Rocky Mountain ADA Center Logo" /></a></span>
+            <img src="https://brand.rockymountainada.org/assets/logos/rmadac-logo-pride.png"
+              alt="Rocky Mountain ADA Center Pride Logo" style="max-width: 100%" /></a></span>
       </td>
     </tr>
     <tr style="box-sizing: border-box">
@@ -564,7 +581,7 @@ To add the signature of your choice to your email, download the HTML file associ
           padding: 15px 0px 0px;
           border-top: 1px solid rgb(175, 179, 191);
           font-size: 9pt;
-          line-height: 14px;
+          line-height: 18px;
         ">
         <span style="
             box-sizing: border-box;
@@ -572,8 +589,12 @@ To add the signature of your choice to your email, download the HTML file associ
             color: rgb(29, 44, 71);
             font-family: 'Montserrat', Arial, sans-serif;
           ">
-          Supported by NIDILRR grant number 90DPAD0014<br>
-          <a style="color:rgb(29,44,71);" href="https://rockymountainada.org/disclaimer" target="_blank">Email Disclaimer</a>
+          Help us improve our services by taking our
+          <a href="https://us19.list-manage.com/survey?u=5d4a5e285a1a869eedc7acc2e&id=e87c87f94e&attribution=false&e=158c49c071"
+            target="_blank">demographic poll</a><br />
+          <a style="color: rgb(29, 44, 71)" href="https://rockymountainada.org/disclaimer" target="_blank">Email
+            Disclaimer</a>
+          | Supported by NIDILRR grant #90DPAD0014
         </span>
       </td>
     </tr>

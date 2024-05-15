@@ -195,7 +195,13 @@ const law = [
     subtitle: 'Interacting with people with disabilities',
     fileType: 'pdf',
     url: 'https://www.dropbox.com/scl/fi/pv9htgwdkbnm29xi4xv7t/Law-Enforcement-4-Panel-Large-v3.0.pdf?rlkey=hf62nkpzh4h4g0w7edplfhxz9&dl=0'
-  }
+  },
+  {
+    title: 'Signs of the Law',
+    subtitle: 'Pocket guide with ASL signs for law enforcement',
+    fileType: 'pdf',
+    url: 'https://www.dropbox.com/scl/fi/6o1qj620sl5js1yknk5ow/Signs-of-the-Law-2.0.pdf?rlkey=pce2raa1763xbak7ge0ddvpdf&st=sbxqgr7l&dl=0'
+  },
 ]
 
 const transit = [
