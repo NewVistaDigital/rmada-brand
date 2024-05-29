@@ -15,23 +15,25 @@ After you have copied the template, you may change the following:
 - Phone Number(s)
 - Email address
 
-Do not add or remove anything else. All email disclaimers and information is provided in the "email disclaimer" link
+**NOTE:** By default, the phone numbers will include underlines. To remove this, you must select the phone number and manually click the underline (<u>U</u>) button on the editor to remove it.  
+
+Do not add any text to the signature. All email disclaimers and information is provided in the "email disclaimer" link. If something is missing from the disclaimers page, please inform your director to request an addition to this page.
 
 ## Standard email signature
 
 <FileDownload :downloads='standard' /><br><br>
 
 <div class="signature">
-  <p style="
+  <p style="margin: 0; padding: 0;"><span style="
     box-sizing: border-box;
-    font-size: 20px;
+    font-size:20px;
     margin:0px;
     padding:0px;
     color: rgb(27, 67, 173);
     line-height: 22px;
     font-family: 'Montserrat', Arial, sans-serif;
     font-weight: 700;
-    ">Stevie Wonder, ADAC</p>
+    ">Stevie Wonder, ADAC</span></p>
   <p style="margin:0px; padding:0px;">
     <span style="
       box-sizing: border-box;
@@ -59,7 +61,7 @@ Do not add or remove anything else. All email disclaimers and information is pro
       <strong style="
         margin-right: 0.25em;
         font-weight: 800;
-        " aria-hidden="true">Office:</strong> <a href="tel:18009494232" title="Click or tap to call"
+        ">Office:</strong> <a href="tel:18009494232" title="Click or tap to call"
         style="text-decoration: none; color: rgb(29,44,71);">(800) 949-4232</a>
     </p>
     <p style="
@@ -69,9 +71,10 @@ Do not add or remove anything else. All email disclaimers and information is pro
       font-family: 'Montserrat', Arial, sans-serif;" role="listitem">
       <strong style="
         margin-right: 0.25em;
-        font-weight: 800;" aria-hidden="true">Direct:</strong> <a href="tel:7193512209" title="Click or tap to call"
+        font-weight: 800;">Direct:</strong> <a href="tel:7193512209" title="Click or tap to call"
         style="text-decoration: none; color: rgb(29,44,71);">(719) 351-2209</a>
     </p>
+    <br>
   </div>
   <span style="box-sizing: border-box; padding: 10px 0; display: block;"><a href="http://rockymountainada.org/"
       target="_blank" rel="noopener" style="
@@ -83,9 +86,10 @@ Do not add or remove anything else. All email disclaimers and information is pro
     max-width: 320px;
     display: block;
     ">
-      <img src="https://brand.rockymountainada.org/assets/logos/rmadac-logo.png"
-        srcset="https://brand.rockymountainada.org/assets/logos/rmadac-logo.png 2x" alt="Rocky Mountain ADA Center Logo"
-        style="width: 320px;" loading="eager" width="320" /></a></span>
+      <img src="https://brand.rockymountainada.org/assets/logos/rmadac-logo-pride.png"
+        srcset="https://brand.rockymountainada.org/assets/logos/rmadac-logo-pride.png 2x"
+        alt="Rocky Mountain ADA Center Logo" style="width: 320px;" loading="eager" width="320" /></a></span>
+  <br>
   <p style="
     box-sizing: border-box;
     font-size: 10px;
@@ -100,25 +104,23 @@ Do not add or remove anything else. All email disclaimers and information is pro
     <a style="color:rgb(29,44,71);" href="https://rockymountainada.org/disclaimer" target="_blank">Email
       Disclaimer</a> | Supported by NIDILRR grant #90DPAD0014
   </p>
-  <div style="width:320px;">
+  <div style="width:360px;">
     <a href="https://facebook.com/RMADACenter/" target="_blank" rel="noopener" style="
       box-sizing: border-box;
-      padding: 0 3px;
       font-size: 10px;
       font-family: 'Montserrat', Arial, sans-serif;
       background-color: transparent;
       color: rgb(51, 122, 183);
       ">Facebook
-    </a>
+    </a>&nbsp;
     <a href="https://twitter.com/RockyMtnADA" target="_blank" rel="noopener" style="
       box-sizing: border-box;
-      padding: 0 3px;
       font-size: 10px;
       font-family: 'Montserrat', Arial, sans-serif;
       background-color: transparent;
       color: rgb(51, 122, 183);
       ">Twitter
-    </a>
+    </a>&nbsp;
     <a href="https://youtube.com/channel/UCcTayMz3J1BmjdXlPBVDSrQ" target="_blank" rel="noopener" style="
       box-sizing: border-box;
       padding: 0 3px;
@@ -127,28 +129,25 @@ Do not add or remove anything else. All email disclaimers and information is pro
       background-color: transparent;
       color: rgb(51, 122, 183);
       ">YouTube
-    </a>
+    </a>&nbsp;
     <a href="https://linkedin.com/company/28618459/" target="_blank" rel="noopener" style="
       box-sizing: border-box;
-      padding: 0 3px;
       font-size: 10px;
       font-family: 'Montserrat', Arial, sans-serif;
       background-color: transparent;
       color: rgb(51, 122, 183);
       ">LinkedIn
-    </a>
+    </a>&nbsp;
     <a href="https://instagram.com/rockymountainadacenter/" target="_blank" rel="noopener" style="
       box-sizing: border-box;
-      padding: 0 3px;
       font-size: 10px;
       font-family: 'Montserrat', Arial, sans-serif;
       background-color: transparent;
       color: rgb(51, 122, 183);
       ">Instagram
-    </a>
+    </a>&nbsp;
     <a href="https://tiktok.com/@rockymountainada" target="_blank" rel="noopener" style="
       box-sizing: border-box;
-      padding: 0 3px;
       font-size: 10px;
       font-family: 'Montserrat', Arial, sans-serif;
       background-color: transparent;
@@ -163,16 +162,16 @@ Do not add or remove anything else. All email disclaimers and information is pro
 <FileDownload :downloads='pride' /><br><br>
 
 <div class="signature">
-  <p style="
+  <p style="margin: 0; padding: 0;"><span style="
     box-sizing: border-box;
-    font-size: 20px;
+    font-size:20px;
     margin:0px;
     padding:0px;
     color: rgb(27, 67, 173);
     line-height: 22px;
     font-family: 'Montserrat', Arial, sans-serif;
     font-weight: 700;
-    ">Stevie Wonder, ADAC</p>
+    ">Stevie Wonder, ADAC</span></p>
   <p style="margin:0px; padding:0px;">
     <span style="
       box-sizing: border-box;
@@ -200,7 +199,7 @@ Do not add or remove anything else. All email disclaimers and information is pro
       <strong style="
         margin-right: 0.25em;
         font-weight: 800;
-        " aria-hidden="true">Office:</strong> <a href="tel:18009494232" title="Click or tap to call"
+        ">Office:</strong> <a href="tel:18009494232" title="Click or tap to call"
         style="text-decoration: none; color: rgb(29,44,71);">(800) 949-4232</a>
     </p>
     <p style="
@@ -210,9 +209,10 @@ Do not add or remove anything else. All email disclaimers and information is pro
       font-family: 'Montserrat', Arial, sans-serif;" role="listitem">
       <strong style="
         margin-right: 0.25em;
-        font-weight: 800;" aria-hidden="true">Direct:</strong> <a href="tel:7193512209" title="Click or tap to call"
+        font-weight: 800;">Direct:</strong> <a href="tel:7193512209" title="Click or tap to call"
         style="text-decoration: none; color: rgb(29,44,71);">(719) 351-2209</a>
     </p>
+    <br>
   </div>
   <span style="box-sizing: border-box; padding: 10px 0; display: block;"><a href="http://rockymountainada.org/"
       target="_blank" rel="noopener" style="
@@ -225,8 +225,9 @@ Do not add or remove anything else. All email disclaimers and information is pro
     display: block;
     ">
       <img src="https://brand.rockymountainada.org/assets/logos/rmadac-logo-pride.png"
-        srcset="https://brand.rockymountainada.org/assets/logos/rmadac-logo-pride.png 2x" alt="Rocky Mountain ADA Center Logo"
-        style="width: 320px;" loading="eager" width="320" /></a></span>
+        srcset="https://brand.rockymountainada.org/assets/logos/rmadac-logo-pride.png 2x"
+        alt="Rocky Mountain ADA Center Logo" style="width: 320px;" loading="eager" width="320" /></a></span>
+  <br>
   <p style="
     box-sizing: border-box;
     font-size: 10px;
@@ -241,25 +242,23 @@ Do not add or remove anything else. All email disclaimers and information is pro
     <a style="color:rgb(29,44,71);" href="https://rockymountainada.org/disclaimer" target="_blank">Email
       Disclaimer</a> | Supported by NIDILRR grant #90DPAD0014
   </p>
-  <div style="width:320px;">
+  <div style="width:360px;">
     <a href="https://facebook.com/RMADACenter/" target="_blank" rel="noopener" style="
       box-sizing: border-box;
-      padding: 0 3px;
       font-size: 10px;
       font-family: 'Montserrat', Arial, sans-serif;
       background-color: transparent;
       color: rgb(51, 122, 183);
       ">Facebook
-    </a>
+    </a>&nbsp;
     <a href="https://twitter.com/RockyMtnADA" target="_blank" rel="noopener" style="
       box-sizing: border-box;
-      padding: 0 3px;
       font-size: 10px;
       font-family: 'Montserrat', Arial, sans-serif;
       background-color: transparent;
       color: rgb(51, 122, 183);
       ">Twitter
-    </a>
+    </a>&nbsp;
     <a href="https://youtube.com/channel/UCcTayMz3J1BmjdXlPBVDSrQ" target="_blank" rel="noopener" style="
       box-sizing: border-box;
       padding: 0 3px;
@@ -268,28 +267,25 @@ Do not add or remove anything else. All email disclaimers and information is pro
       background-color: transparent;
       color: rgb(51, 122, 183);
       ">YouTube
-    </a>
+    </a>&nbsp;
     <a href="https://linkedin.com/company/28618459/" target="_blank" rel="noopener" style="
       box-sizing: border-box;
-      padding: 0 3px;
       font-size: 10px;
       font-family: 'Montserrat', Arial, sans-serif;
       background-color: transparent;
       color: rgb(51, 122, 183);
       ">LinkedIn
-    </a>
+    </a>&nbsp;
     <a href="https://instagram.com/rockymountainadacenter/" target="_blank" rel="noopener" style="
       box-sizing: border-box;
-      padding: 0 3px;
       font-size: 10px;
       font-family: 'Montserrat', Arial, sans-serif;
       background-color: transparent;
       color: rgb(51, 122, 183);
       ">Instagram
-    </a>
+    </a>&nbsp;
     <a href="https://tiktok.com/@rockymountainada" target="_blank" rel="noopener" style="
       box-sizing: border-box;
-      padding: 0 3px;
       font-size: 10px;
       font-family: 'Montserrat', Arial, sans-serif;
       background-color: transparent;
