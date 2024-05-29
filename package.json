@@ -1,7 +1,7 @@
 {
   "scripts": {
     "docs:dev": "vitepress dev",
-    "docs:build": "vitepress build",
+    "docs:build": "vitepress build && cp -r ./src/assets ./docs/. && cp  ./src/logo* ./docs/. && cp ./src/favicon.ico ./docs/. && cp ./src/introduction_hero.jpg ./docs/.",
     "docs:preview": "vitepress preview"
   },
   "dependencies": {
