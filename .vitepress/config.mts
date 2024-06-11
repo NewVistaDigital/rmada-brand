@@ -43,6 +43,7 @@ export default defineConfig({
           { text: 'Colors', link: '/brand/colors' },
           { text: 'Extended Color Palette', link: '/brand/extended-palette' },
           { text: 'Typography', link: '/brand/typography' },
+          { text: 'Shortlinks (rmad.ac)', link: '/brand/branded-shortlinks' },
           { text: 'Email Signatures', link: '/brand/email-signatures' },
         ]
       },
