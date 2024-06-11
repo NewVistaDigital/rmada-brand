@@ -37,4 +37,5 @@ This helps us also track useful click information in Google Analytics as well.
 ## Helpful Resources
 
 - [Video Tutorials](https://support.rebrandly.com/hc/en-us/articles/229861168-Video-Tutorials)
+- [Rebrandly YouTube Channel](https://www.youtube.com/@RebrandlyBrandedLinks/videos)
 - [Google Campaign URL Builder](https://ga-dev-tools.google/campaign-url-builder/)
