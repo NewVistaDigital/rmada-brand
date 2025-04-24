@@ -6,16 +6,16 @@ We use social media to build relationships with RMADA users and share all the co
 
 RMADA has a presence on most major social media platforms. Here are our most active accounts and what we usually post on each:
 
-- [Twitter](http://twitter.com/RMADA): Product news, brand marketing, events, media mentions, evergreen content, “we’re hiring!” posts
-- [Facebook](http://facebook.com/RMADA): Product news, brand marketing, events, media mentions, evergreen content,  “we’re hiring!” posts
-- [LinkedIn](http://linkedin.com/company/RMADA): Product news, recruiting content, media mentions, evergreen content
-- [Instagram](http://instagram.com/RMADA): Design outtakes, cool office visitors, life at RMADA, cool stuff we made
+- Twitter: Product news, brand marketing, events, media mentions, evergreen content, “we’re hiring!” posts
+- Facebook: Product news, brand marketing, events, media mentions, evergreen content,  “we’re hiring!” posts
+- LinkedIn: Product news, recruiting content, media mentions, evergreen content
+- Instagram: Design outtakes, cool office visitors, life at RMADA, cool stuff we made
 
 These channels are all managed by the marketing team. We also have a few team-specific accounts on Twitter, Tumblr, Dribbble, and other platforms. The guidelines in this section apply to all of RMADA's channels.
 
 ## Guidelines
 
-Our writing for social media should generally follow the style points outlined in the [Voice and tone](/02-voice-and-tone.html.md) and [Grammar and mechanics](/04-grammar-and-mechanics.html.md) sections. Here are some additional pointers, too.
+Our writing for social media should generally follow the style points outlined in the [Voice and tone](/voice-and-tone.html) and [Grammar and mechanics](/voice-and-tone/grammar-and-mechanics.html) sections. Here are some additional pointers, too.
 
 ### Write short, but smart
 
