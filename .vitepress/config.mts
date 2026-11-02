@@ -71,7 +71,7 @@ export default defineConfig({
           { text: 'tl;dr', link: '/voice-and-tone/tldr' },
           { text: 'Writing Goals', link: '/voice-and-tone/writing-goals' },
           { text: 'Writing About People', link: '/voice-and-tone/writing-about-people' },
-          { text: 'Grammer & Mechanics', link: '/voice-and-tone/grammar-and-mechanics' },
+          { text: 'Grammar & Mechanics', link: '/voice-and-tone/grammar-and-mechanics' },
           { text: 'Writing Online', link: '/voice-and-tone/writing-online' },
           { text: 'Writing Email Newsletters', link: '/voice-and-tone/writing-email-newsletters' },
           { text: 'Writing for Social Media', link: '/voice-and-tone/writing-for-social-media' },
