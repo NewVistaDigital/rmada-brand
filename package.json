@@ -5,7 +5,7 @@
     "docs:preview": "vitepress preview"
   },
   "dependencies": {
-    "vitepress": "^1.0.0-rc.40"
+    "vitepress": "^1.6.4"
   },
   "devDependencies": {
     "@types/culori": "^2.0.4",
